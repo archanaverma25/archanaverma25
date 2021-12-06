@@ -5,3 +5,5 @@
 - 📫 How to reach me ...
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=archanaverma25)](https://github.com/archanaverma25/github-readme-stats)
+

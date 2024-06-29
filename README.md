@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archanaverma25
 - 👀 I’m interested in Data Engineering,Python,Elastic Search,MongoDB
-- 🌱 I’m currently learning System Designing
+- 🌱 I’m currently learning System Designing and cloud services
 - 💞️ I’m looking to collaborate on Python,MongoDb
 - 📫 How to reach me archana.2549gmail.com
 
